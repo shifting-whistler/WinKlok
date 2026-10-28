@@ -117,17 +117,16 @@ Ever felt tired of moving those bulky floating panels just for a stopwatch or ti
 - Native Win32, Direct2D, and DirectWrite rendering—no embedded browser UI.
 - Acrylic or simple panel material, light/dark theme support, and Windows-style slide-up animation.
 - Mouse-wheel, touch, pen, and precision touchpad scrolling.
-- Optional taskbar previews and notification icon, configurable 12/24-hour display, preview layout, taskbar height, and default timer/alarm sounds.
+- Optional taskbar previews and notification icon, configurable 12/24-hour display, preview layout, and default timer/alarm sounds.
 - Controls to sync system time, reload Explorer/the taskbar, or quit WinKlok and return the clock area to Windows.
 
 ## Getting started
 
 1. Install [Windhawk](https://windhawk.net/).
 2. Open the [WinKlok mod page](https://windhawk.net/mods/winklok) and install/enable the mod through Windhawk. 
-3. Restart the Windows Explorer from the task manager.
+3. Restart the Windows Explorer from the task manager if changes don't appear.
 4. Have fun...
 
-On an already-running taskbar, the first clock refresh can take up to a minute or it might not even appear. Restart the Windows Explorer to fix this issue.
 
 ## Compatibility and notes
 
@@ -137,9 +136,6 @@ On an already-running taskbar, the first clock refresh can take up to a minute o
 - WinKlok does not download videos, make accounts, or send telemetry. Its data is stored locally through Windhawk's storage facilities.
 - If something goes wrong, enable **Verbose logging** in the mod settings and review the Windhawk log.
 
-### About system-time sync
-
-Windows restricts system-clock changes to administrators. The first **Sync time now** operation asks for permission and creates a small, on-demand **WinKlok Time Sync** scheduled task. Later syncs can run without another prompt. The task can be removed from Windows Task Scheduler.
 
 ## For developers
 
