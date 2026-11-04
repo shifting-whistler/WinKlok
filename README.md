@@ -112,6 +112,16 @@ Ever felt tired of moving those bulky floating panels just for a stopwatch or ti
 - Paste rich content from browsers and common chat/AI tools while preserving supported structure such as headings, lists, tables, block quotes, code blocks, links, and equations.
 - Clickable links in previews, automatic plain-URL detection, adjustable text size, and a one-tap copy action for the note body.
 
+### Tasks
+* A minimal task list: **+** drops down the input (cursor ready, Enter adds), the trash icon deletes all tasks (two clicks to confirm).
+* Slim cards with the date and time each task was created; edit or delete a task from its card.
+* View: All / Active / Done. Finished tasks sink under a dimmed *Completed tasks* heading with its own Delete button.
+
+### Notification panel
+* The taskbar bell opens WinKlok's own notification panel instead of the Windows one: notifications grouped by app, relative times, dismiss one, dismiss a whole app, clear all, click to open the app.
+* In Settings choose **Separate panel** (the bell opens it on its own) or **Above WinKlok**: then the clock opens the WinKlok panel with the notifications stacked above it, sliding in from the right like the native flyout. A chevron in the tab bar folds the WinKlok panel into a slim strip so the notifications extend, and back (remembered).
+* Notifications are read locally from the Windows notification database (read-only copy, nothing leaves your PC). If Windows ever blocks that, the panel says so and offers the native one.
+
 ### Taskbar integration and settings
 
 - Native Win32, Direct2D, and DirectWrite rendering—no embedded browser UI.
