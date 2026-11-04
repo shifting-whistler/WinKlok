@@ -43,7 +43,7 @@ Windows' built-in clock is perfectly good at telling you the time. The rest of t
 ### 1. The full desktop
 
 <p align="center">
-  <img src="Images/desktop .jpg" alt="WinKlok open on the Windows 11 desktop" width="100%">
+  <img src="Images/desktop.jpg" alt="WinKlok open on the Windows 11 desktop" width="100%">
 </p>
 
 ### 2. Right there on the taskbar
@@ -51,14 +51,9 @@ Windows' built-in clock is perfectly good at telling you the time. The rest of t
 Ever felt tired of moving those bulky floating panels just for a stopwatch or timer ? No worries, now they are displayed directly on the taskbar.
 
 <table align="center">
-  <tr align="center">     
-    <th>Side by Side Layout</th>     
-    <th>Stacked (compact) Layout</th>  
-  </tr>
-  <tr>
-    <td width="50%"><img src="Images/sidebysidemode.jpg" alt="WinKlok stopwatch preview on the taskbar" width="100%"></td>
-    <td width="50%"><img src="Images/stackedmode.jpg" alt="WinKlok timer preview on the taskbar" width="100%"></td>
-  </tr>
+<p align="center">
+  <img src="Images/modetable.jpg" alt="WinKlok open on the Windows 11 desktop" width="100%">
+</p>
 </table>
 
 ### 3. Inside the panel
@@ -74,7 +69,12 @@ Ever felt tired of moving those bulky floating panels just for a stopwatch or ti
   <tr>
   <td width="33.33%"><img src="Images/alarm.jpg" alt="WinKlok alarm panel" width="100%"></td>
   <td width="33.33%"><img src="Images/notes.jpg" alt="WinKlok notes panel" width="100%"></td>
+  <td width="33.33%"><img src="Images/tasks.jpg" alt="WinKlok tasks panel" width="100%"></td>
+</tr>
+<tr>
   <td width="33.33%"><img src="Images/settings.jpg" alt="WinKlok settings panel" width="100%"></td>
+  <td width="33.33%"><img src="Images/notipanel.jpg" alt="WinKlok notification panel" width="100%"></td>
+  <td width="33.33%"><img src="Images/notipanelabove.jpg" alt="WinKlok notification panel(above)" width="100%"></td>
 </tr>
 
 </table>
