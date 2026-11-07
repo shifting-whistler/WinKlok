@@ -43,7 +43,7 @@ Windows' built-in clock is perfectly good at telling you the time. The rest of t
 ### 1. The full desktop
 
 <p align="center">
-  <img src="Images/desktopv1.1.0.jpg" alt="WinKlok open on the Windows 11 desktop" width="100%">
+  <img src="Images/desktopv1.1.0.png" alt="WinKlok open on the Windows 11 desktop" width="100%">
 </p>
 
 ### 2. Right there on the taskbar
