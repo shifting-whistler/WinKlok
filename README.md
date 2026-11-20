@@ -62,13 +62,13 @@ Ever felt tired of moving those bulky floating panels just for a stopwatch or ti
 
 <table>
   <tr>
-    <td width="33.33%"><img src="Images/rowone.png" alt="panel row 1" width="100%"></td>
+    <td width="33.33%"><img src="Images/rowmono.png" alt="panel row 1" width="100%"></td>
  </tr>
  <tr>
   <td width="33.33%"><img src="Images/rowtwo.png" alt="panel row 2" width="100%"></td>
  </tr>
  <tr>
-  <td width="33.33%"><img src="Images/rowthird.png" alt="panel row 3" width="100%"></td>
+  <td width="33.33%"><img src="Images/rowtri.png" alt="panel row 3" width="100%"></td>
  </tr>
 
 </table>
